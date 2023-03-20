@@ -1,0 +1,22 @@
+ctrl + h -> Search
+
+ctrl + c -> Stop The Server
+
+http://127.0.0.1:8000/authcart/login/ - login 
+
+http://127.0.0.1:8000/authcart/signup/ - signup
+
+Basic Html Code
+
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>Sigup Page</h1>
+    </body>
+</html>
+
+django adminstration
+
+username - vamsi
+
+password - 12345
